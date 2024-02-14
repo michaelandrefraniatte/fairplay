@@ -46,3 +46,10 @@ C:\Users\micha\Documents\Perso\tool\FairPlay\Src\V2\FairPlay\FairPlay\obj\x64\Re
 C:\Users\micha\Documents\Perso\tool\FairPlay\Src\V2\FairPlay\FairPlay\obj\x64\Release\FairPlay.csproj.CoreCompileInputs.cache
 C:\Users\micha\Documents\Perso\tool\FairPlay\Src\V2\FairPlay\FairPlay\obj\x64\Release\FairPlay.exe
 C:\Users\micha\Documents\Perso\tool\FairPlay\Src\V2\FairPlay\FairPlay\obj\x64\Release\FairPlay.pdb
+C:\Users\micha\Documents\github\fairplay\Src\FairPlay\V2\FairPlay\FairPlay\bin\x64\Release\FairPlay.exe.config
+C:\Users\micha\Documents\github\fairplay\Src\FairPlay\V2\FairPlay\FairPlay\bin\x64\Release\FairPlay.exe
+C:\Users\micha\Documents\github\fairplay\Src\FairPlay\V2\FairPlay\FairPlay\bin\x64\Release\FairPlay.pdb
+C:\Users\micha\Documents\github\fairplay\Src\FairPlay\V2\FairPlay\FairPlay\obj\x64\Release\FairPlay.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\fairplay\Src\FairPlay\V2\FairPlay\FairPlay\obj\x64\Release\FairPlay.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\fairplay\Src\FairPlay\V2\FairPlay\FairPlay\obj\x64\Release\FairPlay.exe
+C:\Users\micha\Documents\github\fairplay\Src\FairPlay\V2\FairPlay\FairPlay\obj\x64\Release\FairPlay.pdb
